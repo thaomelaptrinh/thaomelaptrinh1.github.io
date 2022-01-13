@@ -1,0 +1,147 @@
+
+#tieude{
+
+    width: 100%;
+    height: 80px;
+    background-color: #243C57;
+
+}
+
+#tieude > p{
+    
+    float: left;
+    padding-left: 30px;
+    padding-top: 10px;
+    color: white;
+    letter-spacing: 5px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13pt;
+    
+    
+}
+.search{
+
+    float: right;
+    padding-top: 27px;
+    padding-right: 100px;
+    
+}
+
+i{
+
+    padding-left: 15px;
+    color: #dde3eb;
+  
+}
+
+
+.menu{
+
+    
+    width: 100%;
+    padding: 1px;
+    background-color: #EAE7E7;
+}
+
+.menu > p{
+
+    float: left;
+    padding-left: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: 800;
+    letter-spacing: 10px;
+}
+
+ul{
+    padding-left: 350px;
+}
+
+li{
+
+    list-style: none;
+    display: inline;
+   
+    
+}
+
+li > a{
+
+
+    padding: 30px;
+    text-decoration: none;
+    font-variant: small-caps;
+}
+
+
+
+
+#footerweb{
+
+    float: left;
+    width: 100%;
+    background-color: #EAE7E7;
+    
+}
+
+#footerweb > p {
+    text-align: center;
+}
+
+
+.boddy{
+
+    width: 80%;
+
+}
+
+.gioithieu{
+
+    float: left;
+    width: 100%;
+    min-height: 500px;
+    background-color: #dde3eb;
+ 
+}
+
+.vanhoa{
+
+    float: left;
+    width: 100%;
+    min-height: 500px;
+    background-color: #919923;
+}
+
+.amthuc{
+
+    float: left;
+    width: 100%;
+    min-height: 500px;
+    background-color: #1b85ff;
+}
+
+.trochoi{
+
+    float: left;
+    width: 100%;
+    min-height: 500px;
+    background-color: #b82bb8;
+}
+
+.gopy{
+
+    float: left;
+    width: 100%;
+    min-height: 500px;
+    background-color: #8a6bb3;
+  
+}
+
+.lienhe{
+
+    float: left;
+    width: 100%;
+    min-height: 300px;
+    background-color: #243447;
+}
